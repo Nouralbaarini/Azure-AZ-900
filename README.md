@@ -1,6 +1,9 @@
 #AZ-900T0x-Microsoft Azure Fundamentals
 This File contains instructions to complete tasks and get familiar with Azure Cloud and its services. These labs will help you with multiple things such as creating VM, Database, Containers, etc...
 
+
+To practice Azure-900: https://quizlet.com/417444115/az900-azure-fundamentals-flash-cards/
+
 For more Details about the exercises : https://docs.microsoft.com/en-us/learn/
 
 Azure setup guide overview: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/
